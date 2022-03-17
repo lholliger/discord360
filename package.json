@@ -1,20 +1,18 @@
 {
   "dependencies": {
-    "@discordjs/rest": "^0.3.0",
-    "discord-api-types": "^0.29.0",
     "discord.js": "^13.6.0",
     "dotenv": "^16.0.0",
     "node-fetch": "^3.2.3"
   },
-  "name": "olympic360",
-  "version": "1.0.0",
+  "name": "discord360",
+  "version": "0.1.0",
   "main": "app.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "lholliger",
+  "license": "MIT",
+  "description": "A Discord bot leaderboard for your Life360 Circle"
 }
