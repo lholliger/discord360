@@ -1,0 +1,32 @@
+[
+  {
+    "name": "help",
+    "description": "List commands",
+    "path": "help",
+    "args": 0
+  },
+  {
+    "name": "list",
+    "description": "List all the users in the circle",
+    "path": "list",
+    "args": 0
+  },
+  {
+    "name": "speed",
+    "description": "Leaderboard of top speeders this week",
+    "path": "speed",
+    "args": 0
+  },
+  {
+    "name": "place",
+    "description": "Leaderboard of who has stayed in the same place longest",
+    "path": "place",
+    "args": 0
+  },
+  {
+    "name": "distance",
+    "description": "Leaderboard of who has travelled the most distance",
+    "path": "distance",
+    "args": 0
+  }
+]
